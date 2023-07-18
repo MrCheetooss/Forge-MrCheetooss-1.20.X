@@ -56,6 +56,8 @@ public class TutorialMod
 
             event.accept(ModItems.RAWROSEGOLD);
             event.accept(ModItems.ROSEGOLD);
+            event.accept(ModItems.STEEL);
+            event.accept(ModItems.STEELPLATE);
         }
 
     }

@@ -17,6 +17,12 @@ public class ModItems {
     public static final RegistryObject<Item> ROSEGOLD = ITEMS.register("rose_gold",
             ()-> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> STEEL = ITEMS.register("steel",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> STEELPLATE = ITEMS.register("steel_plate",
+            ()-> new Item(new Item.Properties()));
+
 
 
 
